@@ -1,5 +1,5 @@
 ## Hi there I`m SeonHo_Choi👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=303&color=071921&multiline=true&width=435&height=100&lines=Hello.+My+name+is+SeonHo-Choi;Mbti+%3A+ESFP;Hobby+%3A+Football%2C+Game%2C+listen+to+song)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=303&color=071921&multiline=true&width=435&height=100&lines=Hello.+My+name+is+SeonHo-Choi;Mbti+%3A+ESFP;Hobby+%3A+Football%2C+Game%2C+music)](https://git.io/typing-svg)
 
 <!--
 **prefer3510-arch/prefer3510-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-- name: Choi-Seon-Ho
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
