@@ -2,6 +2,7 @@
 <h2 align="center"><strong>Welcome to my Readme👋</strong></h2>
 
 **Name:Choi-Seon-Ho**
+
 **Mbti:ESFP**
 **Age:26**
 **Personal History**
