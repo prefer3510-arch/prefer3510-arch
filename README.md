@@ -1,4 +1,5 @@
 ## Hi there I`m SeonHo_Choi👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=MBTI:ESFP;Age:26;)](https://git.io/typing-svg)
 
 <!--
 **prefer3510-arch/prefer3510-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
