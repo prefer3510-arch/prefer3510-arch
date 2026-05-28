@@ -3,10 +3,16 @@
 
 **Name:Choi-Seon-Ho**
 
+**Gender:Male**
+
 **Mbti:ESFP**
 
 **Age:26**
 
+**hobby**
+- Football, Game, Listen to song
+
 **Personal History**
-- 국립목포대학교 졸업 (2020~2026)
+- 대학교 조경학과 라이프 (2020 ~ 2026)
 - 군복무 (2021.08 ~ 2023. 02 )
+
