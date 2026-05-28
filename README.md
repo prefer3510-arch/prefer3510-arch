@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-![ESFP](https://mbtitypeguide.com/images/types/esfp.svg?dpl=dpl_G2CvEn23g5FFY2ma6GjMhUXcxxDH)
+![ESFP](https://mbtitypeguide.com/images/types/esfp.svg?dpl=dpl_G2CvEn23g5FFY2ma6GjMhUXcxxDH){width:50%}
 
