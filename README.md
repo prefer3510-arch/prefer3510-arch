@@ -1,3 +1,3 @@
 ## Hi there I`m SeonHo_Choi👋
-<p align="right"><img src="https://m.academy.co.kr/web/product/big/202405/690169f4f0f8cba1ad78ad114cbd69fd.png" width="40" height="50"></p>
+<p align="right"><img src="https://m.academy.co.kr/web/product/big/202405/690169f4f0f8cba1ad78ad114cbd69fd.png" width="400" height="200"></p>
 
