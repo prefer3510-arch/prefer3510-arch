@@ -4,7 +4,9 @@
 **Name:Choi-Seon-Ho**
 
 **Mbti:ESFP**
+
 **Age:26**
+
 **Personal History**
 - 국립목포대학교 졸업 (2020~2026)
 - 군복무 (2021.08 ~ 2023. 02 )
