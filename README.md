@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I`m SeonHo_Choi👋
 
 <!--
 **prefer3510-arch/prefer3510-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> [ESFP](https://mbtitypeguide.com/images/types/esfp.svg?dpl=dpl_G2CvEn23g5FFY2ma6GjMhUXcxxDH)
+
