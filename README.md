@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=soft&color=A3DCBE&height=100&section=header&text=Let&nbsp;me&nbsp;introduce&nbsp;my&nbsp;self&fontSize=50)
 <h2 align="center"><strong>Welcome to my Readme👋</strong></h2>
-<p align="right"><<img src="https://i.ifh.cc/x10jY9.jpg" width="220px" align="right" style="margin-left: 20px;">"></p>
+<p><img src="https://i.ifh.cc/x10jY9.jpg" width="220px" align="right" style="margin-left: 20px;"></p>
 
 **Name: Choi-Seon-Ho**
 
