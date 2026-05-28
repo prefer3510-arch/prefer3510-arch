@@ -1,2 +1,3 @@
 ## Hi there I`m SeonHo_Choi👋
-<img src="https://mbtitypeguide.com/images/types/esfp.svg?dpl=dpl_G2CvEn23g5FFY2ma6GjMhUXcxxDH" width="40" height="50">
+<p align="right"><img src="https://mbtitypeguide.com/images/types/esfp.svg?dpl=dpl_G2CvEn23g5FFY2ma6GjMhUXcxxDH" width="40" height="50"></p>
+
