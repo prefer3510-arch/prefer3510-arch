@@ -1,13 +1,13 @@
 ![Header](https://capsule-render.vercel.app/api?type=soft&color=A3DCBE&height=100&section=header&text=Let&nbsp;me&nbsp;introduce&nbsp;my&nbsp;self&fontSize=50)
 <h2 align="center"><strong>Welcome to my Readme👋</strong></h2>
 
-**Name:Choi-Seon-Ho**
+**Name: Choi-Seon-Ho**
 
-**Gender:Male**
+**Gender: Male**
 
-**Mbti:ESFP**
+**Mbti: ESFP**
 
-**Age:26**
+**Age: 26**
 
 **hobby**
 - Football, Game, Listen to song
